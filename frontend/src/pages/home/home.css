@@ -1,0 +1,4 @@
+.sidebar {
+    /* Tailwind's base height utility */
+   height: calc(100vh - 70px);
+  }
